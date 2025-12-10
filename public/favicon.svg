@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Best Buy Tag Icon</title>
+  <rect width="64" height="64" rx="10" fill="#0046be"/>
+  <polygon points="8,10 48,10 58,20 48,30 8,30" fill="#ffe000" stroke="#003a96" stroke-width="2"/>
+  <text x="13" y="26" font-family="Arial, 'Helvetica Neue', sans-serif" font-size="14" font-weight="800" fill="#000000">BB</text>
+</svg>
